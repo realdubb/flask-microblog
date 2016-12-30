@@ -86,3 +86,6 @@ flask/
 
 # Rope project settings
 .ropeproject
+
+# Created database
+*.db
